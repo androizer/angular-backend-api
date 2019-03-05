@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Facebook",
+        "ceo": "Mark Zuckerberg",
+        "avatar": "http://www.gstatic.com/tv/thumb/persons/589228/589228_v9_ba.jpg",
+        "extract": "Mark Elliot Zuckerberg (born May 14, 1984) is an American technology entrepreneur and philanthropist. He is known for co-founding and leading Facebook as its chairman and chief executive officer."
+    },
+    {
+        "name": "Twitter",
+        "ceo": "Jack Dorsey",
+        "avatar": "https://s.yimg.com/ny/api/res/1.2/M5jgujKwcexm_8Hg7_srgg--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://img.huffingtonpost.com/asset/5c66d63c250000580480a4c2.jpeg",
+        "extract": "Jack Patrick Dorsey (born November 19, 1976) is an American computer programmer and Internet entrepreneur who is co-founder and CEO of Twitter, and founder and CEO of Square, a mobile payments company."
+    },
+    {
+        "name": "Google",
+        "ceo": "Sunder Pichai",
+        "avatar": "https://pbs.twimg.com/profile_images/864282616597405701/M-FEJMZ0.jpg",
+        "extract": "Pichai Sundararajan (born July 12, 1972), also known as Sundar Pichai, is an Indian-American Tamil business executive. He is the chief executive officer (CEO) of Google LLC. Formerly the Product Chief of Google, Pichai's current role was announced on August 10, 2015, as part of the restructuring process that made Alphabet Inc. into Google's parent company, and he assumed the position on October 2, 2015"
+    },
+    {
+        "name": "Amazon",
+        "ceo": "Jef Bezos",
+        "avatar": "https://specials-images.forbesimg.com/imageserve/5b8eb1b3a7ea434b99d54b36/960x0.jpg",
+        "extract": "Jeffrey Preston Bezos (born January 12, 1964) is an American technology entrepreneur, investor, and philanthropist. He is the founder, chairman, CEO, and president of Amazon."
+    },
+    {
+        "name": "Dropbox",
+        "ceo": "Drew Houston",
+        "avatar": "https://pbs.twimg.com/profile_images/870068698354114560/40LT6K8l_400x400.jpg",
+        "extract": "Andrew W. Houston (born March 4, 1983) is an American billionaire Internet entrepreneur, and the co-founder and CEO of Dropbox, an online backup and storage service. According to Forbes, his net worth is about $2.3 billion. Houston held 24.4 percent voting power in Dropbox before filing for IPO in February 2018"
+    },
+    {
+        "name": "Microsoft",
+        "ceo": "Satya Nadella",
+        "avatar": "https://pbs.twimg.com/profile_images/543839436761358336/iRi_WbYY_400x400.jpeg",
+        "extract": "Satya Narayana Nadella (born 19 August 1967) is an American business executive from India. He is the Chief Executive Officer (CEO) of Microsoft, succeeding Steve Ballmer in 2014. Before becoming CEO, he was Executive Vice President of Microsoft's cloud and enterprise group, responsible for building and running the company's computing platforms, developer tools and cloud computing services."
+    },
+    {
+        "name": "Apple",
+        "ceo": "Tim Cook",
+        "avatar": "https://amp.businessinsider.com/images/5b69e43489c8a12d3a8b468d-750-562.jpg",
+        "extract": "Timothy Donald Cook (born November 1, 1960) is an American business executive and industrial engineer. Cook is the Chief Executive Officer of Apple Inc., and previously served as the company's Chief Operating Officer under its cofounder Steve Jobs."
+    },
+    {
+        "name": "Quark",
+        "ceo": "Chris Hickey",
+        "avatar": "http://www.innovateli.com/wp/wp-content/uploads/2015/04/chris-hickey-president-of-teq-unlimited-innovateli.jpg",
+        "extract": "Christopher Hickey is an accomplished leader of high-tech corporations, ranging from startups to multi-billion-dollar enterprises, with expertise in cloud computing, enterprise data management, Software as a Service (SaaS), storage security, and sales-enablement technologies. He joins Quark Software as CEO from cloud-based data services firm RingLead where he drove the company to be Salesforce’s number-one fully-integrated SaaS-based-data management platform."
+    }
+]
